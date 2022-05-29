@@ -1,0 +1,12 @@
+.introduction-section {
+    background: rgba(185, 177, 177, 0.4);
+}
+
+.introduction-section h1 {
+    color: rgb(111, 110, 110);
+}
+
+.introduction-section textarea {
+    width: 500px;
+    height: 100px;
+}

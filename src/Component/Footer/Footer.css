@@ -1,0 +1,9 @@
+.footer-section {
+    text-align: center;
+    background: rgba(185, 177, 177, 0.4);
+    height: 70px;
+}
+
+.footer-area p{
+    padding-top: 32px;
+}

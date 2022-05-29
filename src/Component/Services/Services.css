@@ -1,0 +1,45 @@
+.service-area {
+    display: flex;
+    background: whitesmoke;
+    position: relative;
+    list-style: none;
+    height: 300px;
+    padding-left: 0px;
+}
+
+.service-box {
+    background: white;
+    margin-right: 60px;
+    width: 260px;
+    height: 250px;
+    text-align: center;
+    color: rgb(133, 199, 188);
+}
+
+.service-box div:last-child {
+    margin-right: 0px;
+}
+
+.service-content {
+    padding-top: 25px;
+}
+
+.service-content p {
+    font-size: 12px;
+}
+
+.btn {
+    margin-left: 70px;
+    /* background: rgb(133, 199, 188); */
+    border: none;
+    width: 120px;
+    height: 36px;
+    color: whitesmoke;
+    border-radius: 5px;
+    position: absolute;
+    top:230px
+}
+
+.btn:hover {
+    background: #ec5b53;
+}

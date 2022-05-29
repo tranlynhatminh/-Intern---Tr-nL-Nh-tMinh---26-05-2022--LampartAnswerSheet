@@ -1,0 +1,32 @@
+.slider-area {
+    text-align: center;
+    max-width: 100%;
+    position: relative;
+}
+
+.banner {
+    position: relative;
+}
+
+.discription-banner {
+    position: absolute;
+    top: 145px;
+    left: 410px;
+}
+
+.discription-banner h1 {
+    background: #ec5b53;
+    width: 300px;
+    margin-left: 150px;
+    color: white;
+}
+
+.discription-banner p {
+    color: white;
+    background: rgba(12, 12, 12, 0.6);
+    font-size: 20px;
+}
+
+.banner img{
+    width: 1503px;
+}

@@ -1,0 +1,23 @@
+  .header-area {
+    background: rgb(133, 199, 188);
+}
+
+  .header-section {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .global-menu {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .menu-item {
+    list-style-type: none;
+    margin: 0 10px 0;
+  }
+  
+  li a {
+    color: white;
+    text-decoration: none;
+  }
